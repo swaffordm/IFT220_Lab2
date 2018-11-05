@@ -33,7 +33,7 @@ git clone https://github.com/your_account/IFT220_Lab2.git
     1.	Use psedit <file name> to edit in **PowerShell ISE**, or use your text editor
     2.  What shoud you change?  See the files for instructions.
 6.	Add the changed file(s) to the commit (`git add <filename>` or `git add -A`)
-7.	Commit (`git commit -m "a note about what you did"`)
+7.	Commit (`git commit -m "Renamed Files"`)
 8.	Push (`git push --porcelain`)
 9.	Refresh your GitHub site and see if the changes are there
 10. Turn in a screenshot showing your commmits like this:
